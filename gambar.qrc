@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/gambar">
+        <file>gambar/logoApp.png</file>
+        <file>gambar/data_tambahkelas.png</file>
+        <file>gambar/data_gantikelas.png</file>
+        <file>gambar/data_keluar.png</file>
+        <file>gambar/sunting_pengaturan.png</file>
+        <file>gambar/bantuan_bantuan.png</file>
+        <file>gambar/data_segarkan.png</file>
+    </qresource>
+</RCC>
